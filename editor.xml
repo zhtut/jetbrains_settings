@@ -11,4 +11,8 @@
   <component name="DartCodeFoldingSettings">
     <option name="collapseGenericParameters" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
