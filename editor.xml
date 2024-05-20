@@ -21,6 +21,9 @@
       </map>
     </option>
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="0" />
+  </component>
   <component name="DartCodeFoldingSettings">
     <option name="collapseGenericParameters" value="true" />
   </component>
