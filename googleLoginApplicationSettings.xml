@@ -6,8 +6,8 @@
         <entry key="ztgtut@gmail.com">
           <value>
             <set>
-              <option value="Gemini" />
               <option value="User Info" />
+              <option value="Gemini" />
             </set>
           </value>
         </entry>
